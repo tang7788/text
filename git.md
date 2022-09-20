@@ -7,3 +7,5 @@ git的使用
 
 4. 查看工作区的修改   git status
 5. 查看提交记录       git log
+
+bjt
